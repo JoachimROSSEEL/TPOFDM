@@ -1,5 +1,5 @@
 ## Objectif du TP
-L’objectif de ce TP de communications numériques est de mettre en pratique avec Matlab ou Python
+Ce TP de communications numériques porte sur la modulation OFDM (orthogonal frequency-division multiplexing). Il propose ainsi de de mettre en pratique avec Matlab ou Python
 les concepts théoriques vus en cours dans le cadre du module TS205. Le TP comporte 2 parties :
 1. Simulation d’un système OFDM dans le cadre d’un canal AWGN complexe,
 2. Simulation d’un système CP-OFDM dans le cadre d’un canal de Rayleigh,

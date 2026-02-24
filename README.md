@@ -1,6 +1,3 @@
-## Description
-Ce dépôt github contient le sujet du TP, TS205_OFDM.pdf, ainsi qu'un script python, TP_OFDM_students.ipynb à compléter en fonction des questions du TP. 
-
 ## Objectif du TP
 L’objectif de ce TP de communications numériques est de mettre en pratique avec Matlab ou Python
 les concepts théoriques vus en cours dans le cadre du module TS205. Le TP comporte 2 parties :
